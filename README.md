@@ -1,2 +1,1 @@
-# exercicio-etec-adolpho
-exercio 1
+# cidades-exercicio
